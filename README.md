@@ -1,10 +1,10 @@
-# DIGEdit
-A high performace text editor.
+# WindEdit
+A high performace text editor for huge file and long line.
 
-_Hello DIGEdit :rose:, hello world!_
+_Hello WindEdit :rose:, hello world!_
 
 # Background
-When developing my software, I need a colored text component, so DIGEdit was created as a by-product. Hope it is a good by-product.
+When developing [WindTerm](https://github.com/kingToolbox/WindTerm), I need a colored text component, so WindEdit was created as a by-product. Hope it is a good by-product.
 
 # Screenshots
 ![cpp](https://github.com/kingToolbox/DIGEdit/blob/master/images/screenshots/cpp.png)
