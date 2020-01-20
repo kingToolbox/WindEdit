@@ -11,8 +11,8 @@ When developing my software, I need a colored text component, so DIGEdit was cre
 ![rfc](https://github.com/kingToolbox/DIGEdit/blob/master/images/screenshots/rfc.png)
 
 # Features
-- Support huge files upto TBytes. (1GB limitation for 0.8)
-- Support very long lines upto GBytes. (100MB limitation for 0.8)
+- Support huge files upto TBytes.
+- Support very long lines upto GBytes.
 - Support vscode syntaxes. (Currently only support cpp, python, rfc, and more is coming)
 - Support vscode themes.
 - Configurable fold, pair, indent, outline, complete, mark and so on.
@@ -25,4 +25,4 @@ When developing my software, I need a colored text component, so DIGEdit was cre
 - High performance.
 
 # License
-Free for personal use.
+Completely FREE for personal, schools and students use without limitations.
