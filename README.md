@@ -3,6 +3,8 @@ A high performace text editor for huge file and long line.
 
 _Hello WindEdit :rose:, hello world!_
 
+**If you want a high performance SSH/Telnet/Serial/Shell client, you can try [WindTerm](https://github.com/kingtoolbox/windterm).**
+
 # Background
 When developing [WindTerm](https://github.com/kingToolbox/WindTerm), I need a colored text component, so WindEdit was created as a by-product. Hope it is a good by-product.
 
