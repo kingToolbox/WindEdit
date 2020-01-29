@@ -8,6 +8,9 @@ _Hello WindEdit :rose:, hello world!_
 # Background
 When developing [WindTerm](https://github.com/kingToolbox/WindTerm), I need a colored text component, so WindEdit was created as a by-product. Hope it is a good by-product.
 
+# Introduction
+See [Intro Videos](https://kingtoolbox.github.io/)
+
 # Screenshots
 ![cpp](https://github.com/kingToolbox/DIGEdit/blob/master/images/screenshots/cpp.png)
 ![rfc](https://github.com/kingToolbox/DIGEdit/blob/master/images/screenshots/rfc.png)
