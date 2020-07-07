@@ -8,6 +8,9 @@ _Hello WindEdit :rose:, hello world!_
 # Background
 When developing [WindTerm](https://github.com/kingToolbox/WindTerm), I need a colored text component, so WindEdit was created as a by-product. Hope it is a good by-product.
 
+# License
+Completely FREE for commercial and non-commercial use without limitations.
+
 # Introduction
 See [Intro Videos](https://kingtoolbox.github.io/)
 
@@ -28,8 +31,3 @@ See [Intro Videos](https://kingtoolbox.github.io/)
 - Multilines edit.
 - Search and replace in folders.
 - High performance.
-
-# License
-Completely FREE for personal, schools and students use without limitations.
-
-For testing in commercial environment, only short-term testing within 30 days is allowed. Not allowed if more than 30 days.
