@@ -11,6 +11,12 @@ When developing [WindTerm](https://github.com/kingToolbox/WindTerm), I need a co
 # License
 Completely FREE for commercial and non-commercial use without limitations.
 
+# Source Code
+
+Since WindEdit is just a by-product of WindTerm, and all the source code is shared with WindTerm, if you have any source code requirements, please visit [WindTerm](https://github.com/kingtoolbox/windterm).
+
+Please note that neither WindTerm nor WindEdit is a **partial** open source project.
+
 # Introduction
 See [Intro Videos](https://kingtoolbox.github.io/)
 
