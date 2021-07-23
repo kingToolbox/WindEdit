@@ -26,6 +26,7 @@ See [Intro Videos](https://kingtoolbox.github.io/)
 
 # Features
 - Support huge files upto TBytes.
+- Support huge files containing billions of lines of text.
 - Support very long lines upto GBytes.
 - Support vscode syntaxes. (Currently only support cpp, python, rfc, and more is coming)
 - Support vscode themes.
